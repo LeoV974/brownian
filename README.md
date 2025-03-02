@@ -3,7 +3,6 @@
 
 <figure>
   <img src="./1D.jpg">
-  <figcaption>1D Brownian Motion.</figcaption>
 </figure>
 
 Here we plot a particle's "W" value over time.
@@ -12,7 +11,6 @@ Here we plot a particle's "W" value over time.
 
 <figure>
   <img src="./2D.jpg">
-  <figcaption>2D Brownian Motion.</figcaption>
 </figure>
 
 Here we show the 2D position of the particle over time. 
@@ -21,7 +19,6 @@ Here we show the 2D position of the particle over time.
 
 <figure>
   <img src="./3D.jpg">
-  <figcaption>3D Brownian Motion.</figcaption>
 </figure>
 
 Here we show the 3D position of the particle over time. 
